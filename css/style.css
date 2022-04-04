@@ -1,0 +1,46 @@
+.barra-nav {
+    border-color: #0a66c2;
+    border-radius: 15px;
+    background-color: #0ab6c2;
+    margin: 10px 10px;
+    display: flex;
+}
+#LogoARgProgr {
+    width: 200px;
+    height: 100px;
+}
+.text-light{
+    margin-top: 30px;
+    margin-left: 50px;
+   
+}
+.botones{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: 15px;
+}
+
+.mat-card {
+    border-radius: 15px;
+    margin:10px 10px;
+    padding: 20px;
+    border-color: #0a66c2;
+}
+
+.mat-card#first-card {
+    padding: 0;
+}
+
+#img-background {
+    width: 100%;
+    height: 500px;
+    border-radius:15px;
+}
+
+.img-thumbnail {
+    
+    width:  180px;
+    height: 140px;
+    border-radius: 50%;
+}
+
